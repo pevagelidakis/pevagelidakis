@@ -1,6 +1,6 @@
 # Hi there 👋, I am Panos!
 #### I am Software Engineer, Project Future Finalist, Graduate Mathematician, and, currently, a Master Student!
-![I am Software Engineer, Project Future Finalist, Graduate Mathematician, and, currently, a Master Student!]
+![I am Software Engineer, Project Future Finalist, Graduate Mathematician, and, currently, a Master Student!](https://github.com/pevagelidakis/pevagelidakis/blob/main/welcome.jpg)
 
 I am Panos Evagelidakis an ambitious software engineer who has a strong interest in data science and machine learning. I have a Bachelor's in Mathematics and am presently working for my Master in Data Science. I have a strong analytical mindset and enjoy finding solutions to problems, which I bring to the tech industry. Through a variety of experiences, such as working at Ballista Technology Group LLC and being named a Project Future Finalist, I have improved my skills.
 My digital toolkit includes expertise in Python and R, Java and Kotlin Android app development, Scala , Java , and TypeScript Software Engineering and a command of numerous data science and machine learning packages. I'm passionate about data visualization and use programs like Matplotlib, Plotly, Tableau, and Power BI to create engaging data narratives. Having a strong foundation in SQL and being knowledgeable about data streaming technologies like Apache Kafka and Flink, and thanks to them I'm well-equipped to handle complex data challenges.
