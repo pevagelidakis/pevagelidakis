@@ -20,9 +20,11 @@ My digital toolkit includes expertise in Python and R, Java and Kotlin Android a
   - ⌨️ Typescript:Angular, typed.js, emailJS
   - ☕ Java:Retrofit, Volley, Gson
   - 🪜 Scala: cats-effect, cats-core_3, scala3-library_3, scala-xml_3, scala-parser-combinators_3, scopt_3, circe-extras_3, snakeyaml, junit, scalatest_3, slf4j-api, slf4j-simple, calcite-core, calcite-linq4j, pprint, upickle, ujson, scalactic, cqframework, fhir.ucum
-
+  - 📈 R: shiny, shinydashboard, plotly, leaflet, reshape2, leaflet.extras, shinyWidgets, Polychrome, dplyr, tseries, DT, collapse, magrittr, tseries, lmtest, sandwich, jtools, xts, ggfortify, lubridate, MTE, quantreg, meboot, foreach, doParallel, future, furrr, purrr, rqPen
+    
   💼 **Work Experience**
-  - Software Engineer @Ballista Technology Group (June 2022 - August 2023)
+  - Software Engineer @Ballista Technology Group (June 2022 - August 2024)
+  - Software Engineer @Carrera Group (February 2024 - July 2024)
     
   🏅 **Honours/Awards**
      - Mobile App Developer | Project Future Finalist: I was trained on how to develop a mobile app using Java or Kotlin and then I was a member of a team, where we developed an app in Android Studio using Room, Volley and Gson.
