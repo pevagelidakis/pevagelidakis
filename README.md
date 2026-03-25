@@ -1,6 +1,6 @@
 # Panagiotis Evangelidakis
  
-> Climate & Geospatial AI Engineer | Time-Series | EU Research
+> Climate & Geospatial AI Engineer | Time-Series | Research Assistant
  
 [![Email](https://img.shields.io/badge/panosevangelidakis%40gmail.com-0f2027?style=for-the-badge&logo=gmail&logoColor=94d2e6)](mailto:panosevangelidakis@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=94d2e6)](https://linkedin.com/in/pevangelidakis)
