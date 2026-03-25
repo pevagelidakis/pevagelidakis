@@ -1,10 +1,7 @@
-<div align="center">
 
 <!-- Dynamic header banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=200&amp;section=header&amp;text=Panos%20Evangelidakis&amp;fontSize=42&amp;fontColor=e0f2fe&amp;fontAlignY=38&amp;desc=Climate%20%26%20Geospatial%20AI%20Engineer%20%7C%20Time-Series%20%7C%20EU%20Research&amp;descAlignY=58&amp;descColor=94d2e6&amp;animation=fadeIn" />
-
-<br/>
-
+<div align="center">
 [![Email](https://img.shields.io/badge/panosevangelidakis%40gmail.com-0f2027?style=for-the-badge&amp;logo=gmail&amp;logoColor=94d2e6)](mailto:panosevangelidakis@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&amp;logo=linkedin&amp;logoColor=94d2e6)](https://linkedin.com/in/pevangelidakis)
 [![ICS–FORTH](https://img.shields.io/badge/ICS–FORTH%20SPL-0f2027?style=for-the-badge&amp;logo=academia&amp;logoColor=94d2e6)](https://www.ics.forth.gr)
