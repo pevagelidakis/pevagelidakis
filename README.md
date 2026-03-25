@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- Dynamic header banner -->
@@ -11,8 +10,6 @@
 [![ICS–FORTH](https://img.shields.io/badge/ICS–FORTH%20SPL-0f2027?style=for-the-badge&amp;logo=academia&amp;logoColor=94d2e6)](https://www.ics.forth.gr)
 
 </div>
-
----
 
 ---
 
@@ -139,7 +136,7 @@ I'm actively engaged in EU research on climate and energy AI — and always inte
 
 If you're working on **time-series forecasting**, **synthetic data generation**, **geospatial AI**, or **EU Horizon projects** in energy or climate, reach out.
 
-[![Email](https://img.shields.io/badge/Send%20an%20email-0f2027?style=for-the-badge&logo=gmail&amp;logoColor=94d2e6)](mailto:panosevangelidakis@gmail.com)
+[![Email](https://img.shields.io/badge/Send%20an%20email-0f2027?style=for-the-badge&amp;logo=gmail&amp;logoColor=94d2e6)](mailto:panosevangelidakis@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0f2027?style=for-the-badge&amp;logo=linkedin&amp;logoColor=94d2e6)](https://linkedin.com/in/pevangelidakis)
 
 ---
