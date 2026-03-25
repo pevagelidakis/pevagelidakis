@@ -1,4 +1,3 @@
-(https://github.com/pevagelidakis/pevagelidakis/blob/main/welcome.jpg)
 
 <!-- Dynamic header banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Panagiotis%20Evangelidakis&fontSize=42&fontColor=e0f2fe&fontAlignY=38&desc=Climate%20%26%20Geospatial%20AI%20Engineer%20%7C%20Time-Series%20%7C%20EU%20Research&descAlignY=58&descColor=94d2e6&animation=fadeIn" />
