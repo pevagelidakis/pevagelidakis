@@ -8,9 +8,8 @@
 [![Email](https://img.shields.io/badge/panosevangelidakis%40gmail.com-0f2027?style=for-the-badge&amp;logo=gmail&amp;logoColor=94d2e6)](mailto:panosevangelidakis@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&amp;logo=linkedin&amp;logoColor=94d2e6)](https://linkedin.com/in/pevangelidakis)
 [![ICS–FORTH](https://img.shields.io/badge/ICS–FORTH%20SPL-0f2027?style=for-the-badge&amp;logo=academia&amp;logoColor=94d2e6)](https://www.ics.forth.gr)
-
+ 
 </div>
-
 ---
 
 ## `whoami`
@@ -61,11 +60,11 @@ At ICS–FORTH I design end-to-end ML pipelines for **climate data ETL, storage,
 ![Scala](https://img.shields.io/badge/Scala-Advanced-2c5364?style=flat-square&amp;logo=scala&amp;logoColor=94d2e6)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-2c5364?style=flat-square&amp;logo=postgresql&amp;logoColor=94d2e6)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-2c5364?style=flat-square&amp;logo=typescript&amp;logoColor=94d2e6)
-
+ 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-0f2027?style=flat-square&amp;logo=apachespark&amp;logoColor=E25A1C)
 ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-0f2027?style=flat-square&amp;logo=apacheflink&amp;logoColor=E6526F)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-0f2027?style=flat-square&amp;logo=apachekafka&amp;logoColor=white)
-
+ 
 </div>
 
 **Data & ML:** `scikit-learn` · `PyTorch` · `statsmodels` · `Prophet` · `GeoPandas` · `Rasterio` · `xarray`  
@@ -116,7 +115,7 @@ I have hands-on experience with the full lifecycle of EU-funded research project
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=pevagelidakis&amp;show_icons=true&amp;theme=dark&amp;bg_color=0f2027&amp;title_color=94d2e6&amp;text_color=e0f2fe&amp;icon_color=2c5364&amp;border_color=203a43&amp;hide_border=false" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pevagelidakis&amp;layout=compact&amp;theme=dark&amp;bg_color=0f2027&amp;title_color=94d2e6&amp;text_color=e0f2fe&amp;border_color=203a43" />
-
+ 
 </div>
 
 ---
@@ -138,9 +137,9 @@ If you're working on **time-series forecasting**, **synthetic data generation**,
 
 [![Email](https://img.shields.io/badge/Send%20an%20email-0f2027?style=for-the-badge&amp;logo=gmail&amp;logoColor=94d2e6)](mailto:panosevangelidakis@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0f2027?style=for-the-badge&amp;logo=linkedin&amp;logoColor=94d2e6)](https://linkedin.com/in/pevangelidakis)
-
+ 
 ---
-
+ 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2c5364,50:203a43,100:0f2027&amp;height=100&amp;section=footer&amp;animation=fadeIn" />
 </div>
