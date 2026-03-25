@@ -6,11 +6,13 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/panosevangelidakis%40gmail.com-0f2027?style=for-the-badge&logo=gmail&logoColor=94d2e6)](mailto:panosevangelidakis@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=94d2e6)](https://linkedin.com/in/pevangelidakis)
-[![ICS–FORTH](https://img.shields.io/badge/ICS–FORTH%20SPL-0f2027?style=for-the-badge&logo=academia&logoColor=94d2e6)](https://spl.ics.forth.gr/)
+[![Email](https://img.shields.io/badge/panosevangelidakis%40gmail.com-0f2027?style=for-the-badge&amp;logo=gmail&amp;logoColor=94d2e6)](mailto:panosevangelidakis@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&amp;logo=linkedin&amp;logoColor=94d2e6)](https://linkedin.com/in/pevangelidakis)
+[![ICS–FORTH](https://img.shields.io/badge/ICS–FORTH%20SPL-0f2027?style=for-the-badge&amp;logo=academia&amp;logoColor=94d2e6)](https://www.ics.forth.gr)
 
 </div>
+
+---
 
 ---
 
