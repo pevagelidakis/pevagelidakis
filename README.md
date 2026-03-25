@@ -114,8 +114,8 @@ I have hands-on experience with the full lifecycle of EU-funded research project
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=pevangelidakis&show_icons=true&theme=dark&bg_color=0f2027&title_color=94d2e6&text_color=e0f2fe&icon_color=2c5364&border_color=203a43&hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pevangelidakis&layout=compact&theme=dark&bg_color=0f2027&title_color=94d2e6&text_color=e0f2fe&border_color=203a43" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=pevagelidakis&show_icons=true&theme=dark&bg_color=0f2027&title_color=94d2e6&text_color=e0f2fe&icon_color=2c5364&border_color=203a43&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pevagelidakis&layout=compact&theme=dark&bg_color=0f2027&title_color=94d2e6&text_color=e0f2fe&border_color=203a43" />
 
 </div>
 
