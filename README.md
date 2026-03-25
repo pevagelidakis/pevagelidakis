@@ -1,11 +1,11 @@
-
-<!-- Dynamic header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=200&amp;section=header&amp;text=Panos%20Evangelidakis&amp;fontSize=42&amp;fontColor=e0f2fe&amp;fontAlignY=38&amp;desc=Climate%20%26%20Geospatial%20AI%20Engineer%20%7C%20Time-Series%20%7C%20EU%20Research&amp;descAlignY=58&amp;descColor=94d2e6&amp;animation=fadeIn" />
-[![Email](https://img.shields.io/badge/panosevangelidakis%40gmail.com-0f2027?style=for-the-badge&amp;logo=gmail&amp;logoColor=94d2e6)](mailto:panosevangelidakis@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&amp;logo=linkedin&amp;logoColor=94d2e6)](https://linkedin.com/in/pevangelidakis)
-[![ICS–FORTH](https://img.shields.io/badge/ICS–FORTH%20SPL-0f2027?style=for-the-badge&amp;logo=academia&amp;logoColor=94d2e6)](https://www.ics.forth.gr)
+# Panagiotis Evangelidakis
  
-
+> Climate & Geospatial AI Engineer | Time-Series | EU Research
+ 
+[![Email](https://img.shields.io/badge/panosevangelidakis%40gmail.com-0f2027?style=for-the-badge&logo=gmail&logoColor=94d2e6)](mailto:panosevangelidakis@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=94d2e6)](https://linkedin.com/in/pevangelidakis)
+[![ICS-FORTH](https://img.shields.io/badge/ICS--FORTH%20SPL-0f2027?style=for-the-badge&logo=academia&logoColor=94d2e6)](https://www.ics.forth.gr)
+ 
 ---
 
 ## `whoami`
@@ -106,14 +106,9 @@ I have hands-on experience with the full lifecycle of EU-funded research project
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=pevagelidakis&amp;show_icons=true&amp;theme=dark&amp;bg_color=0f2027&amp;title_color=94d2e6&amp;text_color=e0f2fe&amp;icon_color=2c5364&amp;border_color=203a43&amp;hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pevagelidakis&amp;layout=compact&amp;theme=dark&amp;bg_color=0f2027&amp;title_color=94d2e6&amp;text_color=e0f2fe&amp;border_color=203a43" />
  
-</div>
-
+![](https://github-readme-stats.vercel.app/api?username=pevagelidakis&show_icons=true&theme=dark&bg_color=0f2027&title_color=94d2e6&text_color=e0f2fe&icon_color=2c5364&border_color=203a43&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pevagelidakis&layout=compact&theme=dark&bg_color=0f2027&title_color=94d2e6&text_color=e0f2fe&border_color=203a43)
 ---
 
 ## 🎓 Education
@@ -137,7 +132,9 @@ If you're working on **time-series forecasting**, **synthetic data generation**,
 ---
  
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2c5364,50:203a43,100:0f2027&amp;height=100&amp;section=footer&amp;animation=fadeIn" />
+ 
+*Climate & Geospatial AI Engineer · ICS–FORTH · Greece*
+ 
 </div>
 
 <!--
